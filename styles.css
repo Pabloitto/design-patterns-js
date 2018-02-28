@@ -1,0 +1,11 @@
+.canvas-container {
+  margin: 0 auto;
+  width: 50%;
+}
+.main-canvas{
+  height: 500;
+  width: 500;
+  /* cursor: none; */
+  background-color: white;
+  border:1px solid #000;
+}
